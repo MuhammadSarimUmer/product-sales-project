@@ -1,4 +1,4 @@
-# 🛒 Product Sales Data Exploration Project
+# 🛒 Product Sales Data Exploration Project.
 
 ## 📦 Dataset
 Online Retail dataset from Kaggle
